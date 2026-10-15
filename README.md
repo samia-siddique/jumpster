@@ -10,11 +10,11 @@ It's a simple game, but it was a fun way for me to try out game development and 
 
 ## Controls
 
-- **W / A / S / D** — Move around
+**W / A / S / D** — Move around
 
 ## Built With
 
-- Godot
+Godot
 
 ## Run Locally
 
